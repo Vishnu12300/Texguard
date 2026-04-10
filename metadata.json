@@ -1,0 +1,5 @@
+{
+  "name": "Tex GUARD AI",
+  "description": "AI-powered fabric defect detection system using live camera scanning and image uploads.",
+  "requestFramePermissions": ["camera"]
+}
